@@ -1,2 +1,1 @@
-# blog
-Personal blog
+🚧WORK IN PROGRESS🚧

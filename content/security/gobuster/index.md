@@ -6,6 +6,7 @@ tags:
   - security
   - recon
 draft: true
+published: false
 description: 用 gobuster 做目錄／子網域探測的佔位筆記
 ---
 

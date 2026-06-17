@@ -6,6 +6,7 @@ tags:
   - security
   - recon
 draft: true
+published: false
 description: Nmap 掃描指令與輸出判讀佔位筆記
 ---
 

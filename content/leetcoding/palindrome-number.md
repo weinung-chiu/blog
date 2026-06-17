@@ -5,6 +5,7 @@ slug: palindrome-number
 tags:
   - leetcode
 draft: true
+published: false
 description: 不轉成字串，只反轉一半數字判斷回文
 ---
 

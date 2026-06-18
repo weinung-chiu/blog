@@ -50,8 +50,11 @@ func angleClock(hour int, minutes int) float64 {
 請 LLM 幫忙調整命名的過程中，提到可以簡化成這樣子：
 
 > gap 是兩針夾角，360-gap 是它的優角（reflex）
+
+
 ```go
 gap := math.Abs(hourAngle - minuteAngle)
 return math.Min(gap, 360-gap)
 ```
+
 但我把已經把三角形的各種定義還給數學老師了，就維持自己能看得懂的作法吧。

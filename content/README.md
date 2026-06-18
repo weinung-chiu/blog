@@ -1,6 +1,6 @@
 # Content
 
-- [LeetCoding](./leetcoding/) — 解題筆記
+- [LeetCoding](./daily-leetcode/) — 每日 LeetCode 練習
 - [Reading](./reading/) — 讀書筆記
 - [Security](./security/) — 滲透測試／CTF 學習筆記
 

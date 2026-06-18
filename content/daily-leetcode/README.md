@@ -1,0 +1,7 @@
+
+每天一題，會變成超強刷題仔嗎？ 🤩
+
+- [Day 1 — Two Sum](./two-sum.md) — 2026-06-17
+- [Day 2 — Palindrome Number](./palindrome-number.md) — 2026-06-18
+- [Day 3 — Angle Between Hands of a Clock](./angle-between-hands-of-a-clock.md) — 2026-06-19
+

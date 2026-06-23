@@ -1,5 +1,5 @@
 ---
-updated: 2026-06-22T15:49:41+08:00
+updated: 2026-06-23T12:00:14+08:00
 ---
 
 每天一題，會變成超強刷題仔嗎？ 🤩
@@ -10,3 +10,4 @@ updated: 2026-06-22T15:49:41+08:00
 - [Day 4 — Longest Substring Without Repeating Characters](./longest-substring-without-repeating-characters.md) — 2026-06-20
 - [Day 5 — 8. String to Integer](./string-to-integer-atoi)
 - [Day 6 — Maximum Number of Balloons](./maximum-number-of-balloons)
+- [Day 7](./valid-parentheses)

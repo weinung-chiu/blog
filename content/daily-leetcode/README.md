@@ -1,5 +1,5 @@
 ---
-updated: 2026-06-24T11:50:38+08:00
+updated: 2026-06-25T15:46:42+08:00
 ---
 
 每天一題，會變成超強刷題仔嗎？ 🤩
@@ -12,3 +12,4 @@ updated: 2026-06-24T11:50:38+08:00
 - [Day 6 — Maximum Number of Balloons](./maximum-number-of-balloons)
 - [Day 7 —  Valid Parentheses](./valid-parentheses)
 - [Day 8 — Merge Two Sorted Lists](./merge-two-sorted-lists)
+- [Day 9 — 125. Valid Palindrome](./valid-palindrome)

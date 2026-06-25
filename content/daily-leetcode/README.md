@@ -1,8 +1,10 @@
 ---
-updated: 2026-06-25T15:46:42+08:00
+updated: 2026-06-25T16:03:34+08:00
 ---
 
-每天一題，會變成超強刷題仔嗎？ 🤩
+目標：養成寫作的規律、累積刷題直到放棄
+
+減少不知道寫哪題的阻力，以 [Grind 75](https://www.techinterviewhandbook.org/grind75/) 上列出來的題目為主，偶爾看到有趣的 Daily Challenge 也會寫
 
 - [Day 1 — Two Sum](./two-sum.md) — 2026-06-17
 - [Day 2 — Palindrome Number](./palindrome-number.md) — 2026-06-18

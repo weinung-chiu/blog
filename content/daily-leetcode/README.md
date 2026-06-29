@@ -1,5 +1,5 @@
 ---
-updated: 2026-06-26T11:20:53+08:00
+updated: 2026-06-29T12:11:26+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄
@@ -16,3 +16,4 @@ updated: 2026-06-26T11:20:53+08:00
 - [Day 8 — Merge Two Sorted Lists](./merge-two-sorted-lists)
 - [Day 9 — 125. Valid Palindrome](./valid-palindrome)
 - [Day 9 — 242. Valid Anagram](./valid-anagram)
+- [Day 10 — 110. Balanced Binary Tree](./balanced-binary-tree)

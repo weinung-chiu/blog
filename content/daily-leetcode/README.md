@@ -17,3 +17,4 @@ updated: 2026-06-29T12:11:26+08:00
 - [Day 9 — 125. Valid Palindrome](./valid-palindrome)
 - [Day 9 — 242. Valid Anagram](./valid-anagram)
 - [Day 10 — 110. Balanced Binary Tree](./balanced-binary-tree)
+- [Day 11 — 278. First Bad Version](./first-bad-version)

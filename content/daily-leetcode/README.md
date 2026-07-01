@@ -1,5 +1,5 @@
 ---
-updated: 2026-06-29T12:11:26+08:00
+updated: 2026-07-01T17:07:31+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄
@@ -18,3 +18,4 @@ updated: 2026-06-29T12:11:26+08:00
 - [Day 9 — 242. Valid Anagram](./valid-anagram)
 - [Day 10 — 110. Balanced Binary Tree](./balanced-binary-tree)
 - [Day 11 — 278. First Bad Version](./first-bad-version)
+- [Day 12 — 67. Add Binary](./add-binary)

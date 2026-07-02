@@ -1,10 +1,10 @@
 ---
-updated: 2026-07-01T17:07:31+08:00
+updated: 2026-07-02T11:19:28+08:00
 ---
 
-目標：養成寫作的規律、累積刷題直到放棄
+目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
 
-減少不知道寫哪題的阻力，以 [Grind 75](https://www.techinterviewhandbook.org/grind75/) 上列出來的題目為主，偶爾看到有趣的 Daily Challenge 也會寫
+為了減少「不知道寫哪題」的阻力，以 [Grind 75](https://www.techinterviewhandbook.org/grind75/) 上列出來的題目為主，偶爾看到有趣的 Daily Challenge 也會寫
 
 - [Day 1 — Two Sum](./two-sum.md) — 2026-06-17
 - [Day 2 — Palindrome Number](./palindrome-number.md) — 2026-06-18
@@ -19,3 +19,5 @@ updated: 2026-07-01T17:07:31+08:00
 - [Day 10 — 110. Balanced Binary Tree](./balanced-binary-tree)
 - [Day 11 — 278. First Bad Version](./first-bad-version)
 - [Day 12 — 67. Add Binary](./add-binary)
+- [Day 13 — 543. Diameter of Binary Tree](./diameter-of-binary-tree)
+

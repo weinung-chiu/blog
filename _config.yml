@@ -2,3 +2,6 @@ title: "0x08's blog"
 
 exclude:
   - content/TEMPLATE.md
+
+readme_index:
+  with_frontmatter: true

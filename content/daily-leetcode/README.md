@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-03T11:32:54+08:00
+updated: 2026-07-06T16:20:01+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
@@ -21,4 +21,5 @@ updated: 2026-07-03T11:32:54+08:00
 - [Day 12 — 67. Add Binary](./add-binary)
 - [Day 13 — 543. Diameter of Binary Tree](./diameter-of-binary-tree)
 - [Day 14 — 53. Maximum Subarray](./maximum-subarray)
+- [Day 15 — 542. 01 Matrix](./01-matrix)
 

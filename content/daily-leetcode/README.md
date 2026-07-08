@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-07T10:41:06+08:00
+updated: 2026-07-08T16:26:19+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
@@ -23,4 +23,6 @@ updated: 2026-07-07T10:41:06+08:00
 - [Day 14 — 53. Maximum Subarray](./maximum-subarray)
 - [Day 15 — 542. 01 Matrix](./01-matrix)
 - [Day 16 — 973. K Closest Points to Origin](./k-closest-points-to-origin)
+- [Day 17 — 15. 3Sum](./3sum)
+
 

@@ -1,7 +1,26 @@
 title: "0x08's blog"
+repository: weinung-chiu/blog
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 
 exclude:
   - content/TEMPLATE.md
 
 readme_index:
   with_frontmatter: true
+
+# Don't run Liquid templating over page content — code blocks containing
+# `{{` (Go/C++ literals, etc.) would otherwise break the build.
+defaults:
+  - scope:
+      path: ""
+    values:
+      render_with_liquid: false

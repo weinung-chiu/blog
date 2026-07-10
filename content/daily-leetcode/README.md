@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-09T11:43:10+08:00
+updated: 2026-07-10T11:30:27+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
@@ -25,5 +25,6 @@ updated: 2026-07-09T11:43:10+08:00
 - [Day 16 — 973. K Closest Points to Origin](./k-closest-points-to-origin)
 - [Day 17 — 15. 3Sum](./3sum)
 - [Day 18 — 102. Binary Tree Level Order Traversal](./binary-tree-level-order-traversal)
+- [Day 19 — 994. Rotting Oranges](./rotting-oranges)
 
 

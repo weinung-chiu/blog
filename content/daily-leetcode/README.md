@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-14T15:02:49+08:00
+updated: 2026-07-15T12:05:54+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
@@ -28,5 +28,6 @@ updated: 2026-07-14T15:02:49+08:00
 - [Day 19 — 994. Rotting Oranges](./rotting-oranges)
 - [Day 20 — 200. Number of Islands](./number-of-islands)
 - [Day 21 — 207. Course Schedule](./course-schedule)
+- [Day 22 — 208. Implement Trie (Prefix Tree)](./implement-trie-prefix-tree)
 
 

@@ -29,5 +29,6 @@ updated: 2026-07-15T12:05:54+08:00
 - [Day 20 — 200. Number of Islands](./number-of-islands)
 - [Day 21 — 207. Course Schedule](./course-schedule)
 - [Day 22 — 208. Implement Trie (Prefix Tree)](./implement-trie-prefix-tree)
+- [Day 23 — 98. Validate Binary Search Tree](./validate-binary-search-tree)
 
 

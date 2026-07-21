@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-15T12:05:54+08:00
+updated: 2026-07-21T11:29:11+08:00
 ---
 
 目標：養成寫作的規律、累積刷題直到放棄靠軟體工程吃飯。
@@ -30,5 +30,6 @@ updated: 2026-07-15T12:05:54+08:00
 - [Day 21 — 207. Course Schedule](./course-schedule)
 - [Day 22 — 208. Implement Trie (Prefix Tree)](./implement-trie-prefix-tree)
 - [Day 23 — 98. Validate Binary Search Tree](./validate-binary-search-tree)
-
+- [Day 24 — Permutations & Combinations](./permutaions-and-combinations)
+- 
 
